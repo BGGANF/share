@@ -1,2 +1,2 @@
 # share
-This is my Blog and MSG 123
+This is my Blog and MSG
